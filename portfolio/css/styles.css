@@ -1,3 +1,58 @@
+
 .info {
     margin: 0 auto;
+}
+
+img {
+    height: 300px;
+    border-radius: 50px;
+}
+
+.navbar {
+    border-bottom: 5px solid #2d3c49;
+}
+#logo {
+    float: left;
+    color: #02b3e4;
+}
+
+.jumbotron {
+    background-color: #fff;
+}
+.title {
+    float: right;
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h6 {
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase; 
+}
+
+.top  {
+    width: 100%;
+    height: 225px;
+    background-color: grey;
+    
+}
+.pixel-art {
+    background-image: url("../img/pixel-art-maker.jpeg");
+}
+.trading-card {
+    background-image: url("https://ctl.s6img.com/society6/img/JbXstWBPTdShxc9yR3qJanU-mtA/h_264,w_264/prints/~artwork/s6-original-art-uploads/society6/uploads/misc/a91a5a0daad64ef6b8334f679bb9dc34/~~/rabit-in-wildflowers-prints.jpg");
+}
+
+.blog {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMuRbnMeeB5eOB3JG-9-Aeu8ttSXpXZuM7TCRcpE7MMBK6z2g_g");
+}
+
+.details {
+    width: 100%;
+    text-align: center;
+}
+
+h2 {
+    color: #7d97ad;
 }
